@@ -16,6 +16,5 @@ int main ()
          cout<<"IV";
      }
     }
-     return 0;
 }
 
